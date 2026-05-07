@@ -1,4 +1,6 @@
-const productos=[
+const productos={
+  ultimo_id:5,
+  datos:[
   {
     "nombre": "nombre 1",
     "precio": 68,
@@ -30,5 +32,6 @@ const productos=[
     "id": "5"
   }
 ]
+}
 
 export default productos
